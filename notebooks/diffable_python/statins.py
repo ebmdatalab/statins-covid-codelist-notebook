@@ -14,7 +14,9 @@
 #     name: python3
 # ---
 
-# This notebook contains SnoMed/NHS [dm+d codes](https://ebmdatalab.net/what-is-the-dmd-the-nhs-dictionary-of-medicines-and-devices/) for statins derived from the BNF code section on [lipid regulating drugs](https://openprescribing.net/bnf/0212/)
+# This notebook contains SnoMed/NHS [dm+d codes](https://ebmdatalab.net/what-is-the-dmd-the-nhs-dictionary-of-medicines-and-devices/) for statins derived from the BNF code section on [lipid regulating drugs](https://openprescribing.net/bnf/0212/). 
+#
+# Combination products have not been included. TBC with team.
 
 from ebmdatalab import bq
 import os
