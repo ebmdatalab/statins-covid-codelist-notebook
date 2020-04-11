@@ -68,6 +68,11 @@ amp,4171011000001104,0212000AABBAAAA,Crestor 10mg tablets (AstraZeneca UK Ltd)
 amp,4171311000001101,0212000AABBABAB,Crestor 20mg tablets (AstraZeneca UK Ltd)
 amp,4172111000001108,0212000AABBACAC,Crestor 40mg tablets (AstraZeneca UK Ltd)
 amp,9747511000001107,0212000AABBADAD,Crestor 5mg tablets (AstraZeneca UK Ltd)
+amp,9309911000001100,0212000ACBBAAAA,Inegy 10mg/20mg tablets (Merck Sharp & Dohme Ltd)
+amp,9310311000001108,0212000ACBBABAB,Inegy 10mg/40mg tablets (Merck Sharp & Dohme Ltd)
+amp,9310611000001103,0212000ACBBACAC,Inegy 10mg/80mg tablets (Merck Sharp & Dohme Ltd)
+amp,32170911000001100,0212000AJBBAAAA,Cholib 145mg/20mg tablets (Mylan)
+amp,32169911000001103,0212000AJBBABAB,Cholib 145mg/40mg tablets (Mylan)
 amp,20448211000001101,0212000B0AAAAAA,Atorvastatin 10mg tablets (Dexcel-Pharma Ltd)
 amp,20482711000001104,0212000B0AAAAAA,Atorvastatin 10mg tablets (Accord Healthcare Ltd)
 amp,20491711000001105,0212000B0AAAAAA,Atorvastatin 10mg tablets (A A H Pharmaceuticals Ltd)
@@ -177,7 +182,6 @@ amp,14078611000001109,0212000B0AAAGAG,Atorvastatin 40mg/5ml oral solution (Speci
 amp,14079011000001107,0212000B0AAAGAG,Atorvastatin 40mg/5ml oral suspension (Special Order)
 amp,14157311000001109,0212000B0AAAHAH,Atorvastatin 10mg/5ml oral solution (Special Order)
 amp,14157611000001104,0212000B0AAAHAH,Atorvastatin 10mg/5ml oral suspension (Special Order)
-amp,34676211000001104,0212000B0AAAIAI,Atorvastatin 80mg/5ml oral suspension (Special Order)
 amp,20512911000001107,0212000B0AAANAN,Atorvastatin 30mg tablets (Consilient Health Ltd)
 amp,20970011000001106,0212000B0AAANAN,Atorvastatin 30mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,21099211000001101,0212000B0AAANAN,Atorvastatin 30mg tablets (A A H Pharmaceuticals Ltd)
@@ -228,11 +232,9 @@ amp,84811000001104,0212000M0BBAAAA,Lescol 20mg capsules (Novartis Pharmaceutical
 amp,409611000001108,0212000M0BBABAB,Lescol 40mg capsules (Novartis Pharmaceuticals UK Ltd)
 amp,378111000001106,0212000M0BBACAD,Lescol XL 80mg tablets (Novartis Pharmaceuticals UK Ltd)
 amp,15364211000001102,0212000M0BCAAAD,Luvinsta XL 80mg tablets (Actavis UK Ltd)
-amp,16735311000001101,0212000M0BDAAAD,Pinmactil 80mg modified-release tablets (Mylan)
 amp,17282011000001107,0212000M0BEAAAD,Dorisin XL 80mg tablets (Aspire Pharma Ltd)
 amp,17332011000001106,0212000M0BFAAAD,Stefluvin XL 80mg tablets (Zentiva)
 amp,23864311000001100,0212000M0BGAAAD,Nandovar XL 80mg tablets (Sandoz Ltd)
-amp,36836411000001100,0212000M0BHAAAD,Cadaff XL 80mg tablets (Torrent Pharma (UK) Ltd)
 amp,7943211000001101,0212000X0AAAAAA,Pravastatin 10mg tablets (Teva UK Ltd)
 amp,7958411000001106,0212000X0AAAAAA,Pravastatin 10mg tablets (Actavis UK Ltd)
 amp,7959511000001104,0212000X0AAAAAA,Pravastatin 10mg tablets (IVAX Pharmaceuticals UK Ltd)
@@ -448,8 +450,6 @@ amp,21898211000001107,0212000Y0AAALAL,Simvastatin 40mg/5ml oral suspension sugar
 amp,37805111000001105,0212000Y0AAALAL,Simvastatin 40mg/5ml oral suspension sugar free (DE Pharmaceuticals)
 amp,13885811000001108,0212000Y0AAAMAM,Simvastatin 40mg/5ml oral solution (Special Order)
 amp,13886111000001107,0212000Y0AAAMAM,Simvastatin 40mg/5ml oral suspension (Special Order)
-amp,16083811000001101,0212000Y0AAAPAP,Simvastatin 25mg/5ml oral solution (Special Order)
-amp,16084111000001105,0212000Y0AAAPAP,Simvastatin 25mg/5ml oral suspension (Special Order)
 amp,108111000001106,0212000Y0BBAAAA,Zocor 10mg tablets (Merck Sharp & Dohme Ltd)
 amp,776811000001104,0212000Y0BBABAB,Zocor 20mg tablets (Merck Sharp & Dohme Ltd)
 amp,859611000001107,0212000Y0BBACAD,Zocor 40mg tablets (Merck Sharp & Dohme Ltd)
@@ -459,15 +459,17 @@ amp,4896211000001101,0212000Y0BDAAAA,Simvador 10mg tablets (Dexcel-Pharma Ltd)
 amp,4896511000001103,0212000Y0BDABAB,Simvador 20mg tablets (Dexcel-Pharma Ltd)
 amp,4896711000001108,0212000Y0BDACAD,Simvador 40mg tablets (Dexcel-Pharma Ltd)
 amp,15158611000001106,0212000Y0BDADAH,Simvador 80mg tablets (Dexcel-Pharma Ltd)
-amp,7630211000001106,0212000Y0BEAAAA,Ranzolont 10mg tablets (Ranbaxy (UK) Ltd)
-amp,7631911000001109,0212000Y0BEABAB,Ranzolont 20mg tablets (Ranbaxy (UK) Ltd)
 amp,7632811000001108,0212000Y0BEACAD,Ranzolont 40mg tablets (Ranbaxy (UK) Ltd)
-amp,13858111000001104,0212000Y0BFAAAA,Lloydspharmacy Cholesterol Lowering 10mg tablets (Lloyds Pharmacy Ltd)
 vmp,408036003,0212000AAAAAAAA,Rosuvastatin 10mg tablets
 vmp,408037007,0212000AAAAABAB,Rosuvastatin 20mg tablets
 vmp,408024009,0212000AAAAACAC,Rosuvastatin 40mg tablets
 vmp,409108001,0212000AAAAADAD,Rosuvastatin 5mg tablets
 vmp,16075311000001101,0212000AAAAAEAE,Rosuvastatin 20mg/5ml oral suspension
+vmp,414177002,0212000ACAAAAAA,Simvastatin 20mg / Ezetimibe 10mg tablets
+vmp,414178007,0212000ACAAABAB,Simvastatin 40mg / Ezetimibe 10mg tablets
+vmp,414179004,0212000ACAAACAC,Simvastatin 80mg / Ezetimibe 10mg tablets
+vmp,32234211000001101,0212000AJAAAAAA,Fenofibrate 145mg / Simvastatin 20mg tablets
+vmp,32234311000001109,0212000AJAAABAB,Fenofibrate 145mg / Simvastatin 40mg tablets
 vmp,320029006,0212000B0AAAAAA,Atorvastatin 10mg tablets
 vmp,320030001,0212000B0AAABAB,Atorvastatin 20mg tablets
 vmp,320031002,0212000B0AAACAC,Atorvastatin 40mg tablets
@@ -477,7 +479,6 @@ vmp,14158811000001101,0212000B0AAAGAG,Atorvastatin 40mg/5ml oral solution
 vmp,14158911000001106,0212000B0AAAGAG,Atorvastatin 40mg/5ml oral suspension
 vmp,14158611000001100,0212000B0AAAHAH,Atorvastatin 10mg/5ml oral solution
 vmp,14158711000001109,0212000B0AAAHAH,Atorvastatin 10mg/5ml oral suspension
-vmp,34682311000001101,0212000B0AAAIAI,Atorvastatin 80mg/5ml oral suspension
 vmp,19722411000001106,0212000B0AAALAL,Atorvastatin 10mg chewable tablets sugar free
 vmp,19722511000001105,0212000B0AAAMAM,Atorvastatin 20mg chewable tablets sugar free
 vmp,20528511000001106,0212000B0AAANAN,Atorvastatin 30mg tablets
@@ -507,5 +508,3 @@ vmp,17369311000001105,0212000Y0AAAKAK,Simvastatin 20mg/5ml oral suspension sugar
 vmp,17429811000001102,0212000Y0AAALAL,Simvastatin 40mg/5ml oral suspension sugar free
 vmp,13894311000001104,0212000Y0AAAMAM,Simvastatin 40mg/5ml oral solution
 vmp,13894411000001106,0212000Y0AAAMAM,Simvastatin 40mg/5ml oral suspension
-vmp,16090911000001102,0212000Y0AAAPAP,Simvastatin 25mg/5ml oral solution
-vmp,16091011000001105,0212000Y0AAAPAP,Simvastatin 25mg/5ml oral suspension
